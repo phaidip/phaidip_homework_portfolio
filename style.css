@@ -1,0 +1,29 @@
+body {
+  background: #snow;
+  padding: 30px;
+  font-family: "Helvetica", sans-serif;
+}
+
+h1 {
+  font-family: "Helvetica", sans-serif;
+  color: black
+}
+h2 {
+  font-family: "Helvetica", sans-serif;
+  color: grey;
+}
+h4 {
+  font-family: "Helvetica", sans-serif;
+  color: black
+  font-weight:bold;
+}
+h5 {
+  font-family: "Helvetica", sans-serif;
+  color: grey;
+  font-size: 12px
+}
+h6 {
+  font-family: "Helvetica", sans-serif;
+  color: #191970;
+  font-size: 20px
+}
